@@ -18,7 +18,7 @@ Use this to create a web page with 3 tabs, one for each section.
 8. Remember to cite the source of each section
 
 ## Demo
-You can find a working demo [here](https://dciforks.github.io/UIB-data-checkbox-menu/)
+You can find a working demo [here](https://funforks.github.io/UIB-data-checkbox-menu/)
 
 ## Screenshots
 * Desktop layout
